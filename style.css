@@ -178,3 +178,19 @@ textarea{
 .form_right_area {
     padding-left: 5%;
 }
+
+footer {
+    background: #000;
+    text-align: center;
+    padding: 20px 0;
+    
+}
+
+footer h1 {
+    color: #fff;
+    font-family: 'Yeseva One', cursive;
+}
+
+footer p {
+    color: #ddd;
+}
