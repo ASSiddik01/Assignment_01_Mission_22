@@ -81,3 +81,48 @@ section{
 .goal {
     background-color: #fff4d6;
 }
+
+.developer_area {
+    padding: 0 10%;
+}
+
+.community_area {
+    padding: 0 10%;
+}
+
+.width_40 {
+    width: 40%;
+}
+
+.width_40 img {
+    width: 100%;
+}
+
+.width_60 {
+    width: 50%;
+    
+}
+
+.developer_details{
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+.community_details{
+    margin-right: 10%;
+    margin-top: 50px;
+}
+
+.developer_area.bg{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 230px;
+    background-position: left;
+}
+
+.community_area.bg{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 230px;
+    background-position: right;
+}
