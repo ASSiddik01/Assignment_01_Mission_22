@@ -9,10 +9,6 @@ section{
     margin-bottom: 65px;
 }
 
-h1{
-    font-family: 'Yeseva One', cursive;
-}
-
 .flex_container {display: flex;}
 
 .width_50 {
@@ -30,6 +26,7 @@ h1{
 }
 
 #title_area {
+    font-family: 'Yeseva One', cursive;
     font-size: 40px;
     padding-left: 3%;
     border-left: 10px solid;
@@ -49,4 +46,38 @@ h1{
     border-radius: 5px;
     color: #fff;
     font-weight: 700;
+}
+
+.section_title {
+    font-size: 30px;
+    text-align: center;
+}
+
+.mission_items {
+    display: flex;
+    margin: 0 10%;
+}
+
+.mission_item {
+    width: 30%;
+    margin: 0 1%;
+    padding: 2%;
+    text-align: justify;
+    border-radius: 20px;
+}
+
+.mission_item img {
+    width: 141px;
+}
+
+.mission {
+    background-color: #edf5f6;
+}
+
+.vission {
+    background-color: #ffeeee;
+}
+
+.goal {
+    background-color: #fff4d6;
 }
