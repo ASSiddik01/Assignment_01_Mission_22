@@ -35,6 +35,7 @@ section {
 .mission_area, .developer_area, .community_area, #contact_form {
     padding: 0 10%;
 }
+
 .bg{
     background-repeat: no-repeat;
     background-size: 230px;
@@ -75,8 +76,8 @@ section {
     margin-top: 170px;
 }
 
-/* Mission Area CSS */
 
+/* Mission Area CSS */
 .section_title {
     font-size: 30px;
     text-align: center;
@@ -105,6 +106,7 @@ section {
 .goal {
     background-color: #fff4d6;
 }
+
 
 /* Developer Area CSS*/
 .developer_details {
