@@ -179,6 +179,10 @@ textarea{
     padding-left: 5%;
 }
 
+button {
+    border: none;
+}
+
 footer {
     background: #000;
     text-align: center;
