@@ -90,6 +90,11 @@ section{
     padding: 0 10%;
 }
 
+
+#contact_form {
+    padding: 0 10%;
+}
+
 .width_40 {
     width: 40%;
 }
@@ -125,4 +130,51 @@ section{
     background-repeat: no-repeat;
     background-size: 230px;
     background-position: right;
+}
+
+#contact_form {
+    margin-top: 100px;
+    border-radius: 30px;
+}
+
+input[type=text],input[type=textarea] {
+    height: 20px;
+    width: 45%;
+    border: 2px Solid #333;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+input[type=email] {
+    width: 93%;
+    height: 20px;
+    border: 2px Solid #333;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+textarea{
+    border: 2px Solid #333;
+    padding: 2px 5px;
+    border-radius: 5px;
+    width: 100%;
+}
+
+.form_right_area h1 {
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.form_right_area h4 {
+    margin-bottom: 10px;
+}
+
+.form_left_area img {
+    height: 100%;
+    width: 100%;
+    border-radius: 30px;
+}
+
+.form_right_area {
+    padding-left: 5%;
 }
